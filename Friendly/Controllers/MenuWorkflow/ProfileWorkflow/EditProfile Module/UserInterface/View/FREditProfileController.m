@@ -2,8 +2,8 @@
 //  FREditProfileInteractor.h
 //  Friendly
 //
-//  Created by Sergey Borichev on 17.03.2016.
-//  Copyright (c) 2016 TecSynt. All rights reserved.
+//  Created by Matthew James on 17.03.2016.
+//  Copyright (c) 2016 Accucode Inc. All rights reserved.
 //
 
 #import "FREditProfileController.h"
@@ -133,13 +133,13 @@
         } break;
         case FREditProfileCellTypeMobileNumber:
         {
-            //https://tecsynt.plan.io/issues/1526 - нужно выпилить интересы и номер
+            //https://Accucode Inc.plan.io/issues/1526 - нужно выпилить интересы и номер
 //            return [(FRProfileTextViewCellViewModel*)model cellHeight];
             return 0;
         } break;
         case FREditProfileCellTypeInterests:
         {
-            //https://tecsynt.plan.io/issues/1526 - нужно выпилить интересы и номер
+            //https://Accucode Inc.plan.io/issues/1526 - нужно выпилить интересы и номер
             return [(FRProfileTextViewCellViewModel*)model cellHeight];
 //            return 0;
         } break;

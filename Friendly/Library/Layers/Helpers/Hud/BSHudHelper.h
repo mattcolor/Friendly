@@ -2,8 +2,8 @@
 //  BSHudHelper.h
 //  PrimeTel
 //
-//  Created by Sergey Borichev on 26.12.15.
-//  Copyright © 2015 TecSynt. All rights reserved.
+//  Created by Matthew James on 26.12.15.
+//  Copyright © 2015 Accucode Inc. All rights reserved.
 //
 
 typedef NS_ENUM(NSInteger, BSHudType) {

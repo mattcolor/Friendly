@@ -3,7 +3,7 @@
 //  Friendly
 //
 //  Created by Sergey on 04.06.16.
-//  Copyright © 2016 TecSynt. All rights reserved.
+//  Copyright © 2016 Accucode Inc. All rights reserved.
 //
 
 #import "FRGroupRoom.h"

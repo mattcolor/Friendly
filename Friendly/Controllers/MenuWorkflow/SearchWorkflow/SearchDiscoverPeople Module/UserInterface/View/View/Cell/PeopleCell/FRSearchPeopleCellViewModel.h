@@ -2,8 +2,8 @@
 //  FRSearchPeopleCellViewModel.h
 //  Friendly
 //
-//  Created by Sergey Borichev on 20.04.16.
-//  Copyright © 2016 TecSynt. All rights reserved.
+//  Created by Matthew James on 20.04.16.
+//  Copyright © 2016 Accucode Inc. All rights reserved.
 //
 
 @class FRSearchUserModel;

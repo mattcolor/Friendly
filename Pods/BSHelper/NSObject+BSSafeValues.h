@@ -1,7 +1,7 @@
 
 //
-//  Created by Sergey Borichev on 30.11.15.
-//  Copyright © 2015 TecSynt. All rights reserved.
+//  Created by Matthew James on 30.11.15.
+//  Copyright © 2015 Accucode Inc. All rights reserved.
 
 //
 

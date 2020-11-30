@@ -3,7 +3,7 @@
 //  Friendly
 //
 //  Created by Sergey on 27.09.16.
-//  Copyright © 2016 TecSynt. All rights reserved.
+//  Copyright © 2016 Accucode Inc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

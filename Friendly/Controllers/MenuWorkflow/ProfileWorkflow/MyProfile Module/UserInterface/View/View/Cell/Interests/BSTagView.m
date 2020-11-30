@@ -1,6 +1,6 @@
 //
-//  Created by Sergey Borichev on 26.03.16.
-//  Copyright © 2016 Sergey Borichev. All rights reserved.
+//  Created by Matthew James on 26.03.16.
+//  Copyright © 2016 Matthew James. All rights reserved.
 //
 
 #import "BSTagView.h"

@@ -2,8 +2,8 @@
 //  FREventFilterDomainModel.m
 //  Friendly
 //
-//  Created by Sergey Borichev on 26.04.16.
-//  Copyright © 2016 TecSynt. All rights reserved.
+//  Created by Matthew James on 26.04.16.
+//  Copyright © 2016 Accucode Inc. All rights reserved.
 //
 
 #import "FREventFilterDomainModel.h"

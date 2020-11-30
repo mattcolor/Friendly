@@ -2,8 +2,8 @@
 //  FREventSubCollectionCell.h
 //  Friendly
 //
-//  Created by Sergey Borichev on 16.03.16.
-//  Copyright © 2016 TecSynt. All rights reserved.
+//  Created by Matthew James on 16.03.16.
+//  Copyright © 2016 Accucode Inc. All rights reserved.
 //
 
 #import "FREventCollectionCell.h"
